@@ -1,5 +1,5 @@
 com\example\demo\DemoApplication.class
 com\example\demo\Entity\Medicine.class
+com\example\demo\controller\Endpoints.class
 com\example\demo\Repository\MedicineRepository.class
 com\example\demo\Service\MedicineService.class
-com\example\demo\controller\Enpoints.class
